@@ -8,3 +8,22 @@
 😧
 
 ![nkust](NKUSTICON.png "NKUST")
+
+- [ ] todo list
+- [x] done
+
+```python
+s = "Python Syntax Highlighting"
+print(s)
+```
+```js
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
+|Tables|Are|cool|
+|:|||
+|||
+|||
+|||
+|||
